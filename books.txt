@@ -1,0 +1,4 @@
+1234|IOT|Mohit|7|44|44
+3547|Humanities|Sarang|3|55|55
+4561|AI|Rahul|4|55|54
+7777|DSA|Ankti Soni|5|12|12

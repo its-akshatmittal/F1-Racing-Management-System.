@@ -1,0 +1,4 @@
+admin|14501384498207021539|manager|Smarth|smarthmehar@gmail.com
+102206247|10878061730230325215|student|bhavya|bhavyarakeshbansal555@gmail.com
+102206232|13531181641220422884|student|Rashika|rmishra1_be22@thapar.edu
+102206229|12598391057341136039|student|Vinay|vinayyadav9035@gmail.com
